@@ -4,7 +4,7 @@
   <img src="./github-banner.png" alt="Jeth Sala Banner" width="100%" />
 </div>
 <!-- INTRODUCTION 204c2f--> 
-<h2>Hey there, I'm Jeth! 👋</h2>
+<h1>Hey there, I'm Jeth! 👋</h1>
 
 <p>
   I'm a <b>Software Developer & 3D Artist</b> with a background in
