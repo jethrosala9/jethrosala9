@@ -6,7 +6,7 @@
 
 <br>
 
-<!-- INTRODUCTION -->
+<!-- INTRODUCTION 204c2f--> 
 <h2>Hey there, I'm Jeth! 👋</h2>
 
 <p>
@@ -31,14 +31,8 @@
   </a>
 </p>
 
-<br>
-
 <!-- TECH STACK -->
 <h2>Tech Stack</h2>
-
-<p>
-  Technologies and tools I use for development and design.
-</p>
 
 <h3>Languages</h3>
 <p>
@@ -80,24 +74,3 @@
   <img src="https://img.shields.io/badge/Matplotlib-202F25?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/AutoCAD-202F25?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
 </p>
-
-<br>
-
-<!-- GITHUB ACTIVITY -->
-<h2>GitHub Activity</h2>
-
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=jethrosala9&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-    width="75%"
-  />
-</div>
-
-<br>
-
-<!-- FOOTER -->
-<div align="center">
-  <p><i>From pixels to polygons.</i></p>
-  <sub>Designed and built by Jeth Sala</sub>
-</div>
