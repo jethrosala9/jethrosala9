@@ -3,9 +3,6 @@
 <div align="center">
   <img src="./github-banner.png" alt="Jeth Sala Banner" width="100%" />
 </div>
-
-<br>
-
 <!-- INTRODUCTION 204c2f--> 
 <h2>Hey there, I'm Jeth! 👋</h2>
 
