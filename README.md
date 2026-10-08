@@ -1,7 +1,7 @@
 
 <!-- HEADER -->
 <div align="center">
-  <img src="./assets/github-banner.png" alt="Jeth Sala Banner" width="100%" />
+  <img src="./github-banner.png" alt="Jeth Sala Banner" width="100%" />
 </div>
 
 <br>
