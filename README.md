@@ -4,7 +4,7 @@
   <img src="./github-banner.png" alt="Jeth Sala Banner" width="100%" />
 </div>
 <!-- INTRODUCTION 204c2f--> 
-<h1>Hey there, I'm Jeth! 👋</h1>
+<h1>Hey there, I'm Jeth! Welcome FELLOW NIGHT CRAWLER! 👋</h1>
 
 <!-- TECH STACK -->
 <h2>Tech Stack</h2>
