@@ -1,29 +1,103 @@
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</br> 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) 
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)</br> 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)</br>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jethrosala9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- HEADER -->
+<div align="center">
+  <img src="./assets/github-banner.png" alt="Jeth Sala Banner" width="100%" />
+</div>
 
-[![](https://komarev.com/ghpvc/?username=jethrosala9&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br>
+
+<!-- INTRODUCTION -->
+<h2>Hey there, I'm Jeth! 👋</h2>
+
+<p>
+  I'm a <b>Software Developer & 3D Artist</b> with a background in
+  Computer Engineering. I enjoy building functional, thoughtfully
+  designed applications and creating 3D experiences.
+</p>
+
+<p>
+  My work spans web development, mobile applications, IoT systems,
+  and 3D modeling. I like turning ideas into something people can
+  actually use.
+</p>
+
+<!-- SOCIAL LINKS -->
+<p>
+  <a href="https://github.com/jethrosala9">
+    <img src="https://img.shields.io/badge/GitHub-0B2819?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/jethrosala9?tab=repositories">
+    <img src="https://img.shields.io/badge/My_Projects-237B50?style=flat-square&logo=github&logoColor=white" alt="Projects" />
+  </a>
+</p>
+
+<br>
+
+<!-- TECH STACK -->
+<h2>Tech Stack</h2>
+
+<p>
+  Technologies and tools I use for development and design.
+</p>
+
+<h3>Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-202F25?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-202F25?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-202F25?style=for-the-badge&logo=python&logoColor=FFDD54" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-202F25?style=for-the-badge&logo=cplusplus&logoColor=659AD2" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-202F25?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-202F25?style=for-the-badge&logo=css&logoColor=1572B6" alt="CSS3" />
+</p>
+
+<h3>Frameworks & Libraries</h3>
+<p>
+  <img src="https://img.shields.io/badge/React-202F25?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React_Native-202F25?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Next.js-202F25?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-202F25?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Expo-202F25?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Three.js-202F25?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-202F25?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+</p>
+
+<h3>Design & Creative</h3>
+<p>
+  <img src="https://img.shields.io/badge/Blender-202F25?style=for-the-badge&logo=blender&logoColor=F5792A" alt="Blender" />
+  <img src="https://img.shields.io/badge/Figma-202F25?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-202F25?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Premiere_Pro-202F25?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro" />
+  <img src="https://img.shields.io/badge/Canva-202F25?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva" />
+</p>
+
+<h3>Development & Engineering Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-202F25?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-202F25?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-202F25?style=for-the-badge&logo=visualstudiocode&logoColor=22A7F2" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Arduino-202F25?style=for-the-badge&logo=arduino&logoColor=00979D" alt="Arduino" />
+  <img src="https://img.shields.io/badge/NumPy-202F25?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-202F25?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/AutoCAD-202F25?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
+</p>
+
+<br>
+
+<!-- GITHUB ACTIVITY -->
+<h2>GitHub Activity</h2>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=jethrosala9&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+    width="75%"
+  />
+</div>
+
+<br>
+
+<!-- FOOTER -->
+<div align="center">
+  <p><i>From pixels to polygons.</i></p>
+  <sub>Designed and built by Jeth Sala</sub>
+</div>
